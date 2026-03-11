@@ -52,8 +52,9 @@ Cybersecurity & Risk Management Enthusiast
 - Integrate vulnerability scanning results
 - Expand cybersecurity awareness materials
 - Add templates for cybersecurity policies
-- 
+  
 ## License
 
 
 This project is provided for educational and research purposes.
+
